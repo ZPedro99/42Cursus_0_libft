@@ -1,4 +1,4 @@
-# -0-libft
+# (0)Libft
 This project was our very first project as a student at 42. We needed to recode a few functions of the C standard library as well as some other utility functions that you will use during our whole cursus.
 
 <p align="center">
